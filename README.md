@@ -17,8 +17,8 @@ https://www.kaggle.com/c/Kannada-MNIST
 10. Provide a multi-class confusion matrix
 
 # Code:
-- [Jupyter]
-- [HTML]
+- [Jupyter](https://github.com/Minjieli6/Unsupervised-Learning-PCA-Clustering_Artificial_Convolutional_Neural_Network/blob/main/Unsupervised_Learning_PCA_Clustering_MLP_CNN_KannadaDigitRecognizer.ipynb)
+- [HTML](http://htmlpreview.github.io/?https://github.com/Minjieli6/Unsupervised-Learning-PCA-Clustering_Artificial_Convolutional_Neural_Network/blob/main/Unsupervised_Learning_PCA_Clustering_MLP_CNN_KannadaDigitRecognizer.html)
 
 # Source:
 - Geron, Aurelien. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. 2nd ed. Sebastopol, CA: O'Reilly.
